@@ -24,3 +24,13 @@ Unix (linux/apple - teminal derivado do bash)
 - clear (limpa o terminal) ou (ctrl l)
 
 
+Relevantes 
+Git add . (adciona todas as novas mudanças "cria uma chave criptogravada")
+
+Git add -a (adiciona uma mudança específica)
+
+Git push origin main (leva a atualização para o repositório remoto)
+
+Git pull (tras atualização para o repositorio local)
+
+Git commit -m "comentário" (Pontua nova atualição)
